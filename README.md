@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Hacking
 - 🌱 I’m currently learning ...
 
-- Support my Work!
+- If you like what i do and want to support me dont forget to check my Buy Me a Coffee Page for more private works!
 - https://buymeacoffee.com/holxy234
 <!---
 13yz/13yz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
